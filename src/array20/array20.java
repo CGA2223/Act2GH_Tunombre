@@ -9,7 +9,7 @@ public class array20 {
       
       for (int i = 0; i < 20; i++) {
         numerosAleatoriosDelUnoAlCien[i] = (int) (Math.random() * 10 + 1);
-      }
+        System.out.println(numerosAleatoriosDelUnoAlCien[i]);}
 
     
 
